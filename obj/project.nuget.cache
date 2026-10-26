@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkzMC6xlEfw=",
+  "success": true,
+  "projectFilePath": "/home/mapas48/Documents/algoritmo-computacionales/actividad-1/actividad-1.csproj",
+  "expectedPackageFiles": [
+    "/home/mapas48/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
